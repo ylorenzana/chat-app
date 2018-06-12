@@ -1,5 +1,5 @@
 # Chat App
-A very simple node.js + express.js + socket.io chat application.
+A node.js + express.js + socket.io chat application.
 Front-end built using some jQuery + mustache.js templating engine.
 
 ## Demo
